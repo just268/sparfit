@@ -1,0 +1,10 @@
+SparFit V4 Web
+
+Zum Testen:
+1. ZIP entpacken
+2. Ordner sparfit-v4-web öffnen
+3. index.html doppelklicken
+
+Hinweis:
+Die App speichert Daten lokal im Browser.
+Für echte Installation als PWA muss der Ordner online liegen, z.B. auf Netlify, GitHub Pages oder einem Webserver mit HTTPS.
